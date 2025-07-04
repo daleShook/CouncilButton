@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "The Council Button",
+  "version": "1.0",
+  "description": "Quick access to The Council GPT for structured thinking and project workflows.",
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "assets/icons/icon16.png",
+      "48": "assets/icons/icon48.png",
+      "128": "assets/icons/icon128.png"
+    }
+  },
+  "permissions": [
+    "tabs"
+  ]
+}
