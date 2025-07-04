@@ -64,7 +64,7 @@ This project highlights:
 
 ## Preview
 
-![The Council Button UI](assets/screenshots/council_button_ui.png)
+![The Council Button UI](assets/screenshots/icon.png)
 
 ---
 
@@ -75,5 +75,3 @@ MIT License
 ---
 
 **“This isn’t just an extension. It’s a proof of how purposeful tools can change the way we work, think, and build.”**
-
----
