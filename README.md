@@ -11,26 +11,25 @@ This extension was developed from concept to working prototype in three days as 
 Modern workflows are often cluttered with noise. The Council Button simplifies access to structured thinking by embedding AI-assisted reasoning directly into the browser.
 
 This project reflects a strong focus on:
-
-* Building tools that map to how people think and plan
-* Rapid prototyping to prove out technical fluency and product vision
-* Designing for clarity and purpose with minimal cognitive overhead
+- Building tools that map to how people think and plan
+- Rapid prototyping to prove technical fluency and product vision
+- Designing for clarity and purpose with minimal cognitive overhead
 
 ---
 
 ## Features
 
-* Quick Access: Instantly opens The Council GPT for structured reasoning and project clarity
-* Autojournal Trigger: Designed to activate backend journaling workflows via The Council GPT integration
-* Clean, Minimal UI: Designed for fast focus without distractions
+- **Quick Access**: Instantly opens The Council GPT for structured reasoning and project clarity
+- **Autojournal Trigger**: Designed to activate backend journaling workflows via The Council GPT integration
+- **Clean, Minimal UI**: Designed for fast focus without distractions
 
 ---
 
 ## Built With
 
-* HTML/CSS/JavaScript (vanilla)
-* Chrome Extensions API (Manifest v3)
-* *The Council GPT* backend integration for AI-assisted workflows
+- HTML/CSS/JavaScript (vanilla)
+- Chrome Extensions API (Manifest v3)
+- *The Council GPT* backend integration for AI-assisted workflows
 
 ---
 
@@ -46,25 +45,24 @@ This project reflects a strong focus on:
 ## What This Shows
 
 This project highlights:
-
-* Full-stack fluency from front-end UI to backend GPT workflows
-* Execution speed, moving from concept to working prototype in 72 hours
-* A documentation mindset that makes the artifact stand alone as a proof of skill
-* Human-centered design aimed at building tools that reflect thinking workflows, not just technical specs
+- Connecting lightweight front-end tools with AI systems for structured workflows
+- Full-stack fluency across UI design, Chrome APIs, and backend GPT integrations
+- Rapid prototyping from concept to working code in 72 hours
+- A human-centered design mindset, building tools that reflect thinking workflows—not just technical specs
 
 ---
 
 ## Next Steps
 
-* Add context-passing capability to The Council GPT (Phase 2 integration)
-* Enhanced UI customization and user feedback
-* Interactive overlays for real-time project insights
+- Add context-passing capability to The Council GPT (Phase 2 integration)
+- Enhanced UI customization and user feedback
+- Interactive overlays for real-time project insights
 
 ---
 
 ## Preview
 
-![The Council Button UI](assets/screenshots/icon.png)
+![The Council Button UI](assets/screenshots/council_button_ui.png)
 
 ---
 
