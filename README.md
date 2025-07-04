@@ -62,7 +62,7 @@ This project highlights:
 
 ## Preview
 
-![The Council Button UI](assets/screenshots/council_button_ui.png)
+![The Council Button UI](assets/screenshots/icon.png)
 
 ---
 
