@@ -1,5 +1,0 @@
-First Commit Message:
-Initial commit: Council Button Chrome extension for structured thinking and AI-assisted workflows
-
-GitHub Repo Description:
-A focused Chrome extension connecting The Council GPT for lightweight, browser-native project workflows and journaling. Built in 3 days as proof of full-stack fluency and purposeful design.
